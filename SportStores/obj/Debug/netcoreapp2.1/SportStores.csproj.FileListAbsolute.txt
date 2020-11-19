@@ -1,0 +1,105 @@
+D:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.deps.json
+D:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.runtimeconfig.json
+D:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.runtimeconfig.dev.json
+D:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.dll
+D:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.pdb
+D:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.Views.dll
+D:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.Views.pdb
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csprojAssemblyReference.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csproj.CoreCompileInputs.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorAssemblyInfo.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorAssemblyInfo.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.AssemblyInfoInputs.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.AssemblyInfo.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.TagHelpers.input.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.TagHelpers.output.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorCoreGenerate.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorTargetAssemblyInfo.cache
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorTargetAssemblyInfo.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.Views.pdb
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.dll
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.pdb
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csproj.CopyComplete
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.deps.json
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.runtimeconfig.json
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.runtimeconfig.dev.json
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.dll
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.pdb
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.Views.dll
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.Views.pdb
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csprojAssemblyReference.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csproj.CoreCompileInputs.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorAssemblyInfo.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorAssemblyInfo.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.AssemblyInfoInputs.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.AssemblyInfo.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.TagHelpers.input.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.TagHelpers.output.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorCoreGenerate.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorTargetAssemblyInfo.cache
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorTargetAssemblyInfo.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.Views.pdb
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.dll
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.pdb
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csproj.CopyComplete
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.deps.json
+F:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.runtimeconfig.json
+F:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.runtimeconfig.dev.json
+F:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.dll
+F:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.pdb
+F:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.Views.dll
+F:\SportStores\SportStores\SportStores\bin\Debug\netcoreapp2.1\SportStores.Views.pdb
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csprojAssemblyReference.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csproj.CoreCompileInputs.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorAssemblyInfo.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorAssemblyInfo.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.AssemblyInfoInputs.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.AssemblyInfo.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.TagHelpers.input.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.TagHelpers.output.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorCoreGenerate.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorTargetAssemblyInfo.cache
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.RazorTargetAssemblyInfo.cs
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.Views.pdb
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.dll
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.pdb
+F:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\SportStores.csproj.CopyComplete
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\Studies\DH18CT\Hoc Ky 7\Web 2\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+D:\SportStores\SportStores\SportStores\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs

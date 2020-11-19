@@ -1,0 +1,1 @@
+Server = aspnetcore-sql-server.database.windows.net; Database = SportsStore; User ID = sqlserver; Password = SxP7Ex30YLYb; MultipleActiveResultSets=true
