@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/sdk:3.1 AS sdk
 WORKDIR src
 
 COPY *.sln .
-COPY App/*.csproj App/
+COPY SportStores/*.csproj SprotStores/
 RUN dotnet restore
 
 
@@ -15,4 +15,4 @@ WORKDIR src
 COPY --from=sdk src/dist .
 
 
-CMD ASPNETCORE_URLS=http://*:$PORT dotnet App.dll
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet SportStores.dll
