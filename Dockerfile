@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/sdk:3.1 AS sdk
 WORKDIR src
 
 COPY *.sln .
-COPY SportStores/*.csproj SprotStores/
+COPY SportStores/*.csproj SportStores/
 RUN dotnet restore
 
 
